@@ -8,7 +8,7 @@ import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
 
-public class JohnsInternetCafe extends Application {
+public class InternetCafe extends Application {
     // The start method is the entry point of the JavaFX application.
     @Override
     public void start(Stage primaryStage) throws Exception {
@@ -17,7 +17,7 @@ public class JohnsInternetCafe extends Application {
         Parent root = loader.load();
 
         // Title of the primary stage
-        primaryStage.setTitle("Jhon’s Internet Café");
+        primaryStage.setTitle("Internet Café");
         Image favicon =new Image("file:IMAGES\\logo.png");
         primaryStage.getIcons().add(favicon);
 

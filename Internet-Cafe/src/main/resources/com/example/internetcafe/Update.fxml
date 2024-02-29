@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="544.0" prefWidth="546.0" style="-fx-background-color: #447c9e;" xmlns="http://javafx.com/javafx/18.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.internetcafe.MainWindowController">
+   <Text fill="WHITE" layoutX="174.0" layoutY="44.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Update Item Detail">
+      <font>
+         <Font name="Arial Rounded MT Bold" size="22.0" />
+      </font>
+   </Text>
+
+   <TextField fx:id="updateItemField" layoutX="152.0" layoutY="70.0" prefHeight="26.0" prefWidth="199.0" />
+   <Text fill="WHITE" layoutX="39.0" layoutY="86.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Item Code          :" wrappingWidth="112.04969024658203">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <TextField fx:id="newItemNameField" layoutX="152.0" layoutY="105.0" prefHeight="26.0" prefWidth="199.0" />
+   <Text fill="WHITE" layoutX="39.0" layoutY="123.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Item Name         :" wrappingWidth="112.04969024658203">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <TextField fx:id="newItemBrandField" layoutX="151.0" layoutY="140.0" prefHeight="26.0" prefWidth="199.0" />
+   <Text fill="WHITE" layoutX="39.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Item Brand         :" wrappingWidth="112.04969024658203">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <TextField fx:id="newItemPriceField" layoutX="151.0" layoutY="176.0" prefHeight="26.0" prefWidth="199.0" />
+   <Text fill="WHITE" layoutX="39.0" layoutY="191.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Item Price          :" wrappingWidth="112.04969024658203">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <TextField fx:id="newItemQuantityField" layoutX="152.0" layoutY="211.0" prefHeight="26.0" prefWidth="199.0" />
+   <Text fill="WHITE" layoutX="39.0" layoutY="226.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Quantity             :" wrappingWidth="112.04969024658203">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <TextField fx:id="newItemCategoryField" layoutX="152.0" layoutY="245.0" prefHeight="26.0" prefWidth="199.0" />
+   <Text fill="WHITE" layoutX="39.0" layoutY="260.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Category            :" wrappingWidth="120.04969024658203">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <DatePicker fx:id="newPurchasedDateField" layoutX="151.0" layoutY="281.0" prefHeight="26.0" prefWidth="199.0" />
+   <Text fill="WHITE" layoutX="39.0" layoutY="300.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Purchased Date :" wrappingWidth="112.04969024658203">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <Button fx:id="newuploadButton" layoutX="152.0" layoutY="323.0" mnemonicParsing="false" onAction="#handlenewUploadImage" prefHeight="19.0" prefWidth="199.0" style="-fx-background-color: #ffffff;" text="Upload Image">
+      <font>
+         <Font name="System Bold" size="12.0" />
+      </font></Button>
+   <ImageView fx:id="newImageView" fitHeight="104.0" fitWidth="200.0" layoutX="152.0" layoutY="349.0" pickOnBounds="true" preserveRatio="true" />
+   <Text fill="WHITE" layoutX="39.0" layoutY="341.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Item Image        :" wrappingWidth="112.04969024658203">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <Button layoutX="149.0" layoutY="488.0" mnemonicParsing="false" onAction="#handleUpdateItemDetailButtonClick" prefHeight="26.0" prefWidth="199.0" style="-fx-background-color: #ffffff;" text="Update">
+      <font>
+         <Font name="Arial Rounded MT Bold" size="16.0" />
+      </font></Button>
+   <Button fx:id="homeButton" layoutX="437.0" layoutY="32.0" mnemonicParsing="false" onAction="#handleHomeButtonClick" prefHeight="70.0" prefWidth="70.0" style="-fx-background-color: #fcba03;">
+      <graphic>
+         <FontIcon iconColor="#161d94" iconLiteral="fas-home" iconSize="50" />
+      </graphic></Button>
+   <Text fill="WHITE" layoutX="453.0" layoutY="119.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Home">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <Button fx:id="addItemButton" layoutX="438.0" layoutY="130.0" mnemonicParsing="false" onAction="#handleAddItemButtonClick" prefHeight="70.0" prefWidth="70.0" style="-fx-background-color: #fcba03;">
+      <graphic>
+         <FontIcon iconColor="#161d94" iconLiteral="fas-plus" iconSize="50" text="" />
+      </graphic></Button>
+   <Text fill="WHITE" layoutX="442.0" layoutY="216.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Add Item">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <Button fx:id="DeleteItemButton" layoutX="438.0" layoutY="230.0" mnemonicParsing="false" onAction="#handleDeleteItemButtonClick" prefHeight="70.0" prefWidth="70.0" style="-fx-background-color: #fcba03;">
+      <graphic>
+         <FontIcon iconColor="#161d94" iconLiteral="far-trash-alt" iconSize="50" />
+      </graphic></Button>
+   <Text fill="WHITE" layoutX="435.0" layoutY="318.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Delete Item">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <Button fx:id="ViewItemButton" layoutX="437.0" layoutY="333.0" mnemonicParsing="false" onAction="#handleViewItemButtonClick" prefHeight="70.0" prefWidth="70.0" style="-fx-background-color: #fcba03;">
+      <graphic>
+         <FontIcon iconColor="#161d94" iconLiteral="far-eye" iconSize="50" text="" />
+      </graphic></Button>
+   <Text fill="WHITE" layoutX="437.0" layoutY="417.0" strokeType="OUTSIDE" strokeWidth="0.0" text="View Items">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+   <Button layoutX="437.0" layoutY="431.0" mnemonicParsing="false" onAction="#handleSaveButtonClick" prefHeight="70.0" prefWidth="73.0" style="-fx-background-color: #fcba03;">
+      <graphic>
+         <FontIcon iconColor="#161d94" iconLiteral="fas-file-download" iconSize="50" />
+      </graphic>
+   </Button>
+   <Text fill="WHITE" layoutX="438.0" layoutY="516.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Save Items">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Text>
+
+</AnchorPane>

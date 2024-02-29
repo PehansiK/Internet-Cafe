@@ -6,7 +6,7 @@
 <?import javafx.scene.text.Text?>
 <?import org.kordamp.ikonli.javafx.FontIcon?>
 
-<AnchorPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="454.0" prefWidth="618.0" style="-fx-background-color: #447c9e;" xmlns="http://javafx.com/javafx/18.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.inventorysystem.MainWindowController">
+<AnchorPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="454.0" prefWidth="618.0" style="-fx-background-color: #447c9e;" xmlns="http://javafx.com/javafx/18.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.internetcafe.MainWindowController">
     <Text fill="#161d94" layoutX="152.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Inventory System">
         <font>
             <Font name="Arial Rounded MT Bold" size="35.0" />

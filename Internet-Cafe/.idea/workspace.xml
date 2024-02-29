@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a21603-9c88-4d38-a9f6-514c25af28b7" name="Changes" comment="File Deleted" />
+    <list default="true" id="f4a21603-9c88-4d38-a9f6-514c25af28b7" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/IIT/AI & DS/1-YEAR/SEM2/CM1601 Programming Fundamentals/CW/Internet-Cafe/Internet-Cafe/src/main/resources/com/example/internetcafe",
+    "last_opened_file_path": "D:/IIT/AI & DS/1-YEAR/SEM2/CM1601 Programming Fundamentals/CW/Internet-Cafe/Internet-Cafe",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +59,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IIT\AI &amp; DS\1-YEAR\SEM2\CM1601 Programming Fundamentals\CW\Internet-Cafe\Internet-Cafe" />
+      <recent name="D:\IIT\AI &amp; DS\1-YEAR\SEM2\CM1601 Programming Fundamentals\CW\Internet-Cafe\Internet-Cafe\src\main\resources" />
       <recent name="D:\IIT\AI &amp; DS\1-YEAR\SEM2\CM1601 Programming Fundamentals\CW\Internet-Cafe\Internet-Cafe\src\main\resources\com\example\internetcafe" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -73,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709212839683</updated>
-      <workItem from="1709212840733" duration="1526000" />
+      <workItem from="1709212840733" duration="1894000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -211,7 +213,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709214359319</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Dealer Details and items txt">
+      <option name="closed" value="true" />
+      <created>1709214536255</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214536255</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Favicon">
+      <option name="closed" value="true" />
+      <created>1709214643193</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214643193</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1709214731272</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214731272</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +249,6 @@
     <MESSAGE value="MainWindowController" />
     <MESSAGE value="Added Dependencies" />
     <MESSAGE value="Connected with controller" />
-    <MESSAGE value="Changes" />
     <MESSAGE value="Item and Item Data Classes" />
     <MESSAGE value="Add Item FXML" />
     <MESSAGE value="Delete Item FXML" />
@@ -234,6 +259,9 @@
     <MESSAGE value="Dealer Controller" />
     <MESSAGE value="Selected Dealer Controller" />
     <MESSAGE value="File Deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="File Deleted" />
+    <MESSAGE value="Dealer Details and items txt" />
+    <MESSAGE value="Favicon" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>

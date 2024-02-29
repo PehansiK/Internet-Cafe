@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a21603-9c88-4d38-a9f6-514c25af28b7" name="Changes" comment="Launcher">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/internetcafe/MainWindowController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/internetcafe/MainWindow.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="f4a21603-9c88-4d38-a9f6-514c25af28b7" name="Changes" comment="File Deleted" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709212839683</updated>
-      <workItem from="1709212840733" duration="383000" />
+      <workItem from="1709212840733" duration="1526000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -102,7 +99,119 @@
       <option name="project" value="LOCAL" />
       <updated>1709213142287</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MainWindowController">
+      <option name="closed" value="true" />
+      <created>1709213261610</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709213261610</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Dependencies">
+      <option name="closed" value="true" />
+      <created>1709213302635</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709213302635</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Connected with controller">
+      <option name="closed" value="true" />
+      <created>1709213435293</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709213435293</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1709213628809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709213628809</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Item and Item Data Classes">
+      <option name="closed" value="true" />
+      <created>1709213707074</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709213707074</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add Item FXML">
+      <option name="closed" value="true" />
+      <created>1709213775325</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709213775325</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Delete Item FXML">
+      <option name="closed" value="true" />
+      <created>1709213844384</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709213844384</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update Item FXML">
+      <option name="closed" value="true" />
+      <created>1709213910928</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709213910928</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Item Table">
+      <option name="closed" value="true" />
+      <created>1709214001801</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214001801</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Dealer Details">
+      <option name="closed" value="true" />
+      <created>1709214066719</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214066719</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Dealer Item Details">
+      <option name="closed" value="true" />
+      <created>1709214119730</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214119730</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Dealer Controller">
+      <option name="closed" value="true" />
+      <created>1709214210637</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214210637</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Selected Dealer Controller">
+      <option name="closed" value="true" />
+      <created>1709214296811</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214296811</updated>
+    </task>
+    <task id="LOCAL-00017" summary="File Deleted">
+      <option name="closed" value="true" />
+      <created>1709214359319</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214359319</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +220,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Launcher" />
-    <option name="LAST_COMMIT_MESSAGE" value="Launcher" />
+    <MESSAGE value="MainWindowController" />
+    <MESSAGE value="Added Dependencies" />
+    <MESSAGE value="Connected with controller" />
+    <MESSAGE value="Changes" />
+    <MESSAGE value="Item and Item Data Classes" />
+    <MESSAGE value="Add Item FXML" />
+    <MESSAGE value="Delete Item FXML" />
+    <MESSAGE value="Update Item FXML" />
+    <MESSAGE value="Item Table" />
+    <MESSAGE value="Dealer Details" />
+    <MESSAGE value="Dealer Item Details" />
+    <MESSAGE value="Dealer Controller" />
+    <MESSAGE value="Selected Dealer Controller" />
+    <MESSAGE value="File Deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="File Deleted" />
   </component>
 </project>
